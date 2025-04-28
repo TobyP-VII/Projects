@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
         borderRadius: 5,
     },
     pressed: {
-        backgroundColor: Colors.iconColorFocused,
+        opacity: 0.8,
     },
 })
 

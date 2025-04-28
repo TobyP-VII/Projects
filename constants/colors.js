@@ -4,6 +4,5 @@ export const Colors = {
     title: '#d4d4f9',
     background: '#6e6e7e',
     navBackground: '#484852',
-    iconColor: '#f41f60',
-    iconColorFocused: '#3f4bec',
+    iconColor: '#cd1b1b',
 }

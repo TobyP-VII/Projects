@@ -4,7 +4,7 @@ import ThemedView from '../components/ThemedView'
 
 const signature = () => {
     return (
-        <ThemedView>
+        <ThemedView safe={true}>
         </ThemedView>
     )
 }
