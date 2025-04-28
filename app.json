@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "AppLearning",
     "name": "FirstAppLearning",
     "slug": "FirstAppLearning",
     "version": "1.0.0",
