@@ -1,0 +1,4 @@
+echo off
+start "" "C:\Users\Toby\AppData\Roaming\Spotify\Spotify.exe"
+start "" "C:\vs code\experiments\automating stuff\move window\MoveWindow2.0.pyw"
+exit
